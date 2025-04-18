@@ -1,6 +1,6 @@
 # nute-core
 
-This has been refactored from https://github.com/trimble-oss/tierceron-nute in order to allow importing only this package to reduce build requirements for projects needing only these data structures.
+This has been refactored from https://github.com/trimble-oss/tierceron-nute in order to allow importing only this package to reduce build requirements for projects needing only the mashupsdk package.
 
 To run nute, use the following commands:
 go mod download

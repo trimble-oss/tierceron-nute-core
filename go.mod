@@ -1,9 +1,8 @@
-module github.com/mrjrieke/nute-core
+module github.com/trimble-oss/tierceron-nute-core
 
 go 1.23.0
 
 require (
-	github.com/golang/protobuf v1.5.4
 	google.golang.org/grpc v1.64.1
 	google.golang.org/protobuf v1.33.0
 )

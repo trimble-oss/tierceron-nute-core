@@ -1,10 +1,10 @@
 module github.com/trimble-oss/tierceron-nute-core
 
-go 1.27.0
+go 1.27.2
 
 require (
 	google.golang.org/grpc v1.83.2
-	google.golang.org/protobuf v1.36.11
+	google.golang.org/protobuf v1.36.12
 )
 
 require (
